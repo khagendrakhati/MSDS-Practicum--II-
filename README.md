@@ -71,6 +71,18 @@ Image caption generator formed. The actual captions of the image are printed fir
 
 ![image](https://user-images.githubusercontent.com/90472656/235406177-89466cad-eebc-4ec0-a20e-8c0f4fc0fd31.png)
 
+# References
+
+https://www.math.ucla.edu/~minchen/doc/ImgCapGen.pdf
+
+https://www.neuroquantology.com/data-cms/articles/20221021110155amNQ77261.pdf
+
+https://towardsdatascience.com/image-captioning-with-keras-teaching-computers-to-describe-pictures-c88a46a311b8
+
+https://www.analyticsvidhya.com/blog/2021/12/step-by-step-guide-to-build-image-caption-generator-using-deep-learning/
+
+https://www.geeksforgeeks.org/image-caption-generator-using-deep-learning-on-flickr8k-dataset/
+
 
 
 
